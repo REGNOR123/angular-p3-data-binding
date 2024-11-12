@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-p3-data-binding"
+    }
+  },
+  "defaultProject": "angular-p3-data-binding",
+  "cli": {
+    "analytics": false
+  }
 }
